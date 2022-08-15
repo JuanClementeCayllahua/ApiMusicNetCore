@@ -1,0 +1,14 @@
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\bin\Debug\netcoreapp2.1\ApiTuningMusicNetCore.deps.json
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\bin\Debug\netcoreapp2.1\ApiTuningMusicNetCore.runtimeconfig.json
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\bin\Debug\netcoreapp2.1\ApiTuningMusicNetCore.runtimeconfig.dev.json
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\bin\Debug\netcoreapp2.1\ApiTuningMusicNetCore.dll
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\bin\Debug\netcoreapp2.1\ApiTuningMusicNetCore.pdb
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.csprojAssemblyReference.cache
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.csproj.CoreCompileInputs.cache
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.RazorAssemblyInfo.cache
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.RazorAssemblyInfo.cs
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.AssemblyInfoInputs.cache
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.AssemblyInfo.cs
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.dll
+C:\Users\jcayllah\source\repos\ApiTuningMusicNetCore\ApiTuningMusicNetCore\obj\Debug\netcoreapp2.1\ApiTuningMusicNetCore.pdb
